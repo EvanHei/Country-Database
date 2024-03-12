@@ -12,8 +12,9 @@ A MySQL country database creation script with queries for data retrieval.
 
 - database.sql: copy/paste the lines into MySQL and execute to create the database.
 - queries.sql: copy/paste a query and execute in MySQL to retrieve data.
-  > [!NOTE]  
-  > MySQL will only run the selected text. Highlight a query and execute 1 at a time.
+
+> [!NOTE]  
+> MySQL will only run the selected text. Highlight a query and execute 1 at a time.
 
 ## Documentation
 
